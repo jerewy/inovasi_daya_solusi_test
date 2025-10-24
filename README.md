@@ -32,15 +32,6 @@ Returns all transaction data with status information.
 - Includes 12 sample transaction records
 - Provides status information (SUCCESS/FAILED)
 
-## Project Requirements Met
-
-✅ OOP Language (C#)
-✅ HTTP Protocol  
-✅ JSON Data Format
-✅ GET Method
-✅ Database Integration (SQLite)
-✅ Response Matching Required Format
-
 ## Testing
 
 You can test the API using:
