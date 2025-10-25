@@ -10,11 +10,11 @@
         "projectUniqueName": "C:\\dev\\inovasi_daya_solusi_test\\SimpleApi\\SimpleApi.csproj",
         "projectName": "SimpleApi",
         "projectPath": "C:\\dev\\inovasi_daya_solusi_test\\SimpleApi\\SimpleApi.csproj",
-        "packagesPath": "C:\\Users\\Jeremy\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
         "outputPath": "C:\\dev\\inovasi_daya_solusi_test\\SimpleApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jeremy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
